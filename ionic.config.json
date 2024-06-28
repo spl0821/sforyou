@@ -1,0 +1,8 @@
+{
+  "name": "sforyou",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ab22062f"
+}
